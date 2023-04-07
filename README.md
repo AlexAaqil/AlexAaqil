@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Alex.
 - A Software Engineer and Freelancer.
-- Here's my official github account: [github.com/AlexWambui]
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning full stack software engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Here's my official github account: [Alex Wambui](github.com/AlexWambui "AlexWambui's Official Github")
+
+- 👀 I’m higly interested in Web Development (Full Stack).
 
 <!---
 AlexAaqil/AlexAaqil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
