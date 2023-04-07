@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Alex Wambui
+- 👋 Hi, I’m Alex.
+- A Software Engineer and Freelancer.
+- Here's my official github account: [github.com/AlexWambui]
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning full stack software engineering.
 - 💞️ I’m looking to collaborate on ...
