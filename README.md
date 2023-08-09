@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex.
 - A Software Engineer and Freelancer.
-- Here's my official github account: [Alex Wambui](https://www.github.com/AlexWambui "AlexWambui's Official Github")
+### Here's my official github account: [Alex Wambui](https://www.github.com/AlexWambui "AlexWambui's Official Github")
 
 - 👀 I’m higly interested in Web Development (Full Stack).
 
