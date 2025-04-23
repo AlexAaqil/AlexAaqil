@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alex.
-- A Software Engineer and Freelancer.
-- 👀 I’m higly interested in Web Development (Full Stack).
+- Full Stack Software Engineer.
+- I’m higly interested in Web Development (Full Stack).
 
+- Checkout my portfolio: [Alex Aaqil Portfolio Website](https://alexaaqil.netlify.app)
 
 ### Here's my other github account: [Alex Wambui](https://www.github.com/AlexWambui "AlexWambui's Official Github")
 
